@@ -7,7 +7,7 @@
 
   [![wakatime](https://wakatime.com/badge/user/979960ca-ccb8-46f5-a770-eb59e56b893c.svg)](https://wakatime.com/@979960ca-ccb8-46f5-a770-eb59e56b893c)
 
-  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia](https://github.com/fr0ga)
+  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://github.com/fr0ga)
 
 
 <!--
