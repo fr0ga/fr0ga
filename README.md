@@ -10,6 +10,8 @@
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://github.com/fr0ga)
 
 
+[![Waka Readme](https://github.com/fr0ga/WebStormProjects/actions/workflows/waka-readme.yml/badge.svg?branch=master)](https://github.com/fr0ga/WebStormProjects/actions/workflows/waka-readme.yml)
+
 <!--
 **fr0ga/fr0ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
