@@ -1,7 +1,13 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## Hi there 👋
+## Hi there, I'm fr0ga 👋
+
+## Wakatime Stats
+
+  [![wakatime](https://wakatime.com/badge/user/979960ca-ccb8-46f5-a770-eb59e56b893c.svg)](https://wakatime.com/@979960ca-ccb8-46f5-a770-eb59e56b893c)
+
+  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia](https://github.com/fr0ga)
 
 <!--
 **fr0ga/fr0ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
