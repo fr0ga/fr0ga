@@ -6,7 +6,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## Hi there, I'm fr0ga 🐸
+## Hi there, I'm fr0ga 
 
 ## Wakatime Stats
 
