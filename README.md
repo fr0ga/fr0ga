@@ -6,6 +6,11 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+  [![My Wakatime Stats](https://wakatime.com/badge/user/3bc5685d-9374-4fda-b730-ba22f0ab6973.svg)](https://wakatime.com/@alexmolt)
+  
+  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexmolt&layout=compact&theme=algolia)](https://wakatime.com/@alexmolt)
+
+
 ## Hi there, I'm fr0ga 
 
 ## Wakatime Stats
