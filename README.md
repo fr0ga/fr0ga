@@ -10,7 +10,7 @@ No activity tracked
 
 ## Wakatime Stats
 
-  [![My Wakatime Stats](https://wakatime.com/badge/user/3bc5685d-9374-4fda-b730-ba22f0ab6973.svg)](https://wakatime.com/@fr0ga)
+  [![My Wakatime Stats](https://wakatime.com/badge/user/130cf1ea-ba28-4df5-9f20-4f67df21126b.svg)](https://wakatime.com/@130cf1ea-ba28-4df5-9f20-4f67df21126b)
   
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://wakatime.com/@fr0ga)
 
