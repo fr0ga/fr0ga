@@ -1,5 +1,67 @@
 ## Hi there, I'm fr0ga 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fr0ga</title>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: repeat(5, 40px);
+            gap: 5px;
+        }
+        .box {
+            width: 40px;
+            height: 40px;
+            background-color: green;
+        }
+        .empty {
+            background-color: transparent;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- f -->
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div>
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div>
+
+        <!-- r -->
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="box"></div><div class="empty"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="box"></div><div class="empty"></div>
+
+        <!-- 0 -->
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+
+        <!-- g -->
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+
+        <!-- a -->
+        <div class="empty"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="empty"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div><div class="box"></div>
+        <div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div><div class="box"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div><div class="box"></div>
+        <div class="box"></div><div class="empty"></div><div class="empty"></div><div class="empty"></div><div class="box"></div>
+    </div>
+</body>
+</html>
+
 
 WebStorm projects (stats from wakatime plugin)
 <!--START_SECTION:waka-->
