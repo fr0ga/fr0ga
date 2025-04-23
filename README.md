@@ -13,7 +13,7 @@ Markdown      0 secs          ░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-  [![My Wakatime Stats](https://wakatime.com/badge/user/130cf1ea-ba28-4df5-9f20-4f67df21126b.svg)](https://wakatime.com/@130cf1ea-ba28-4df5-9f20-4f67df21126b)
+ [![wakatime](https://wakatime.com/badge/user/130cf1ea-ba28-4df5-9f20-4f67df21126b.svg)](https://wakatime.com/@130cf1ea-ba28-4df5-9f20-4f67df21126b)
   
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://wakatime.com/@fr0ga)
 
