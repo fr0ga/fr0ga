@@ -18,6 +18,9 @@ Markdown      0 secs          ░░░░░░░░░░░░░░░░�
   
   [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://wakatime.com/@fr0ga)
 
+  [![My Wakatime Stats](https://wakatime.com/share/@fr0ga/ce0054eb-e454-4a3d-ba4d-56ec89c5ab84.svg)](https://wakatime.com/@fr0ga)
+
+
 <!--
 **fr0ga/fr0ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
