@@ -1,4 +1,4 @@
-## Hi there, I'm &ensp; ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/82ef76a0f1a75c34eb5a7075fc551273294c13d7/fr0ga.svg)
+## Hi there, I'm &ensp; ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/15fc2449f4af1d37e719885f835097181c1c8764/fr0ga.svg)
 
 
 
