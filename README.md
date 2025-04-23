@@ -3,7 +3,7 @@
 
 
 
-WebStorm projects (stats from wakatime plugin)
+# WebStorm projects (stats from wakatime plugin)
 <!--START_SECTION:waka-->
 
 ```txt
