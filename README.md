@@ -1,7 +1,7 @@
 ## Hi there, I'm fr0ga 
 
 
-  [![My Wakatime Stats WebStorm Projects](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://wakatime.com/@fr0ga)
+WebStorm projects (stats from wakatime plugin)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -12,9 +12,6 @@ YAML          0 secs          ░░░░░░░░░░░░░░░░�
 Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
-
-  [![My Wakatime Stats](https://wakatime.com/share/@fr0ga/0240311f-04fc-41fb-97a6-4157536a21f2.svg)](https://wakatime.com/@fr0ga)
-
 
 <!--
 **fr0ga/fr0ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
