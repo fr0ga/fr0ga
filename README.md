@@ -1,3 +1,6 @@
+## Hi there, I'm fr0ga 
+
+## Wakatime Stats
 <!--START_SECTION:waka-->
 
 ```txt
@@ -7,12 +10,8 @@ HTML          0 secs          ░░░░░░░░░░░░░░░░�
 YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
-
 <!--END_SECTION:waka-->
 
-## Hi there, I'm fr0ga 
-
-## Wakatime Stats
 
   [![My Wakatime Stats](https://wakatime.com/badge/user/130cf1ea-ba28-4df5-9f20-4f67df21126b.svg)](https://wakatime.com/@130cf1ea-ba28-4df5-9f20-4f67df21126b)
   
