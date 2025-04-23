@@ -1,7 +1,7 @@
 ## Hi there, I'm fr0ga 
 
 <!--END_SECTION:waka-->
-  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://wakatime.com/@fr0ga)
+  [![My Wakatime Stats WebStorm Projects](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://wakatime.com/@fr0ga)
 <!--START_SECTION:waka-->
 
 ```txt
