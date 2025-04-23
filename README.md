@@ -1,6 +1,7 @@
 ## Hi there, I'm fr0ga 
 
 ## Wakatime Stats
+[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://wakatime.com/@fr0ga)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -11,11 +12,6 @@ YAML          0 secs          ░░░░░░░░░░░░░░░░�
 Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
-
-
- [![wakatime](https://wakatime.com/badge/user/130cf1ea-ba28-4df5-9f20-4f67df21126b.svg)](https://wakatime.com/@130cf1ea-ba28-4df5-9f20-4f67df21126b)
-  
-  [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fr0ga&layout=compact&theme=algolia)](https://wakatime.com/@fr0ga)
 
   [![My Wakatime Stats](https://wakatime.com/share/@fr0ga/0240311f-04fc-41fb-97a6-4157536a21f2.svg)](https://wakatime.com/@fr0ga)
 
