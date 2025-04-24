@@ -1,9 +1,7 @@
 # Hi there, I'm <br> ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/8dd4a929d7907c505711eb331da4dc5db9ed059d/fr0ga.svg)
 
-
-
-
 ## WebStorm projects (stats from wakatime plugin)
+
 <!--START_SECTION:waka-->
 
 ```txt
