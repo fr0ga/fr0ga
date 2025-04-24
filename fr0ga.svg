@@ -1,6 +1,277 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="50">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220">
+
+  <g transform="translate(12, 112)">
+    <svg width="150" height="200">
+      <!-- Верхние лепестки -->
+      <rect x="50" y="0" width="10" height="10" fill="pink" />
+      <rect x="60" y="0" width="10" height="10" fill="red" />
+      <rect x="40" y="5" width="10" height="10" fill="orange" />
+      <rect x="70" y="5" width="10" height="10" fill="cyan" />
+
+      <!-- Центральные лепестки -->
+      <rect x="50" y="10" width="10" height="10" fill="magenta" />
+      <rect x="60" y="10" width="10" height="10" fill="purple" />
+
+      <!-- Нижние лепестки -->
+      <rect x="40" y="15" width="10" height="10" fill="yellow" />
+      <rect x="70" y="15" width="10" height="10" fill="lime" />
+      <rect x="50" y="20" width="10" height="10" fill="teal" />
+      <rect x="60" y="20" width="10" height="10" fill="blue" />
+
+      <!-- Стебель -->
+      <rect x="60" y="30" width="5" height="40" fill="green" />
+
+      <!-- Листик -->
+      <rect x="50" y="35" width="15" height="5" fill="green" />
+      <rect x="60" y="45" width="15" height="6" fill="green" />
+    </svg>
+  </g>
+
+  <g transform="translate(127, 115)">
+    <svg width="150" height="200">
+      <!-- Верхние лепестки -->
+      <rect x="50" y="0" width="10" height="10" fill="pink" />
+      <rect x="60" y="0" width="10" height="10" fill="red" />
+      <rect x="40" y="5" width="10" height="10" fill="orange" />
+      <rect x="70" y="5" width="10" height="10" fill="cyan" />
+
+      <!-- Центральные лепестки -->
+      <rect x="50" y="10" width="10" height="10" fill="magenta" />
+      <rect x="60" y="10" width="10" height="10" fill="purple" />
+
+      <!-- Нижние лепестки -->
+      <rect x="40" y="15" width="10" height="10" fill="yellow" />
+      <rect x="70" y="15" width="10" height="10" fill="lime" />
+      <rect x="50" y="20" width="10" height="10" fill="teal" />
+      <rect x="60" y="20" width="10" height="10" fill="blue" />
+
+      <!-- Стебель -->
+      <rect x="60" y="30" width="5" height="40" fill="green" />
+
+      <!-- Листик -->
+      <rect x="50" y="35" width="15" height="5" fill="green" />
+      <rect x="60" y="40" width="15" height="5" fill="green" />
+    </svg>
+  </g>
+
+  <g transform="translate(252, 112)">
+    <svg width="150" height="200">
+      <!-- Верхние лепестки -->
+      <rect x="50" y="0" width="10" height="10" fill="pink" />
+      <rect x="60" y="0" width="10" height="10" fill="red" />
+      <rect x="40" y="5" width="10" height="10" fill="orange" />
+      <rect x="70" y="5" width="10" height="10" fill="cyan" />
+
+      <!-- Центральные лепестки -->
+      <rect x="50" y="10" width="10" height="10" fill="magenta" />
+      <rect x="60" y="10" width="10" height="10" fill="purple" />
+
+      <!-- Нижние лепестки -->
+      <rect x="40" y="15" width="10" height="10" fill="yellow" />
+      <rect x="70" y="15" width="10" height="10" fill="lime" />
+      <rect x="50" y="20" width="10" height="10" fill="teal" />
+      <rect x="60" y="20" width="10" height="10" fill="blue" />
+
+      <!-- Стебель -->
+      <rect x="60" y="30" width="5" height="40" fill="green" />
+
+      <!-- Листик -->
+      <rect x="50" y="35" width="15" height="5" fill="green" />
+      <rect x="60" y="45" width="15" height="6" fill="green" />
+    </svg>
+  </g>
+
+
+  <g transform="translate(30, 80)">
+
+    <!-- Первый элемент травы -->
+    <svg x="0" y="0" width="200" height="150">
+      <rect x="10" y="100" width="10" height="10" fill="green" />
+      <rect x="20" y="100" width="10" height="10" fill="lime" />
+      <rect x="30" y="100" width="10" height="10" fill="forestgreen" />
+      <rect x="40" y="100" width="10" height="10" fill="mediumseagreen" />
+      <rect x="15" y="90" width="10" height="10" fill="green" />
+      <rect x="25" y="90" width="10" height="10" fill="lime" />
+      <rect x="35" y="90" width="10" height="10" fill="forestgreen" />
+      <rect x="20" y="80" width="10" height="10" fill="green" />
+      <rect x="30" y="80" width="10" height="10" fill="lime" />
+    </svg>
+
+    <!-- Второй элемент травы -->
+    <svg x="40" y="0" width="200" height="150">
+      <rect x="10" y="100" width="10" height="10" fill="green" />
+      <rect x="20" y="100" width="10" height="10" fill="lime" />
+      <rect x="30" y="100" width="10" height="10" fill="forestgreen" />
+      <rect x="40" y="100" width="10" height="10" fill="mediumseagreen" />
+      <rect x="15" y="90" width="10" height="10" fill="green" />
+      <rect x="25" y="90" width="10" height="10" fill="lime" />
+      <rect x="35" y="90" width="10" height="10" fill="forestgreen" />
+      <rect x="20" y="80" width="10" height="10" fill="green" />
+      <rect x="30" y="80" width="10" height="10" fill="lime" />
+    </svg>
+
+    <!-- Третий элемент травы -->
+    <svg x="80" y="0" width="200" height="150">
+      <rect x="10" y="100" width="10" height="10" fill="green" />
+      <rect x="20" y="100" width="10" height="10" fill="lime" />
+      <rect x="30" y="100" width="10" height="10" fill="forestgreen" />
+      <rect x="40" y="100" width="10" height="10" fill="mediumseagreen" />
+      <rect x="15" y="90" width="10" height="10" fill="green" />
+      <rect x="25" y="90" width="10" height="10" fill="lime" />
+      <rect x="35" y="90" width="10" height="10" fill="forestgreen" />
+      <rect x="20" y="80" width="10" height="10" fill="green" />
+      <rect x="30" y="80" width="10" height="10" fill="lime" />
+    </svg>
+
+    <!-- Четвертый элемент травы -->
+    <svg x="120" y="0" width="200" height="150">
+      <rect x="10" y="100" width="10" height="10" fill="green" />
+      <rect x="20" y="100" width="10" height="10" fill="lime" />
+      <rect x="30" y="100" width="10" height="10" fill="forestgreen" />
+      <rect x="40" y="100" width="10" height="10" fill="mediumseagreen" />
+      <rect x="15" y="90" width="10" height="10" fill="green" />
+      <rect x="25" y="90" width="10" height="10" fill="lime" />
+      <rect x="35" y="90" width="10" height="10" fill="forestgreen" />
+      <rect x="20" y="80" width="10" height="10" fill="green" />
+      <rect x="30" y="80" width="10" height="10" fill="lime" />
+    </svg>
+
+    <!-- Пятый элемент травы -->
+    <svg x="160" y="0" width="200" height="150">
+      <rect x="10" y="100" width="10" height="10" fill="green" />
+      <rect x="20" y="100" width="10" height="10" fill="lime" />
+      <rect x="30" y="100" width="10" height="10" fill="forestgreen" />
+      <rect x="40" y="100" width="10" height="10" fill="mediumseagreen" />
+      <rect x="15" y="90" width="10" height="10" fill="green" />
+      <rect x="25" y="90" width="10" height="10" fill="lime" />
+      <rect x="35" y="90" width="10" height="10" fill="forestgreen" />
+      <rect x="20" y="80" width="10" height="10" fill="green" />
+      <rect x="30" y="80" width="10" height="10" fill="lime" />
+    </svg>
+
+    <!-- Элемент травы -->
+    <svg x="200" y="0" width="200" height="150">
+      <rect x="10" y="100" width="10" height="10" fill="green" />
+      <rect x="20" y="100" width="10" height="10" fill="lime" />
+      <rect x="30" y="100" width="10" height="10" fill="forestgreen" />
+      <rect x="40" y="100" width="10" height="10" fill="mediumseagreen" />
+      <rect x="15" y="90" width="10" height="10" fill="green" />
+      <rect x="25" y="90" width="10" height="10" fill="lime" />
+      <rect x="35" y="90" width="10" height="10" fill="forestgreen" />
+      <rect x="20" y="80" width="10" height="10" fill="green" />
+      <rect x="30" y="80" width="10" height="10" fill="lime" />
+    </svg>
+
+    <!-- Элемент травы -->
+    <svg x="240" y="0" width="200" height="150">
+      <rect x="10" y="100" width="10" height="10" fill="green" />
+      <rect x="20" y="100" width="10" height="10" fill="lime" />
+      <rect x="30" y="100" width="10" height="10" fill="forestgreen" />
+      <rect x="40" y="100" width="10" height="10" fill="mediumseagreen" />
+      <rect x="15" y="90" width="10" height="10" fill="green" />
+      <rect x="25" y="90" width="10" height="10" fill="lime" />
+      <rect x="35" y="90" width="10" height="10" fill="forestgreen" />
+      <rect x="20" y="80" width="10" height="10" fill="green" />
+      <rect x="30" y="80" width="10" height="10" fill="lime" />
+    </svg>
+
+    <!-- Элемент травы -->
+    <svg x="280" y="0" width="200" height="150">
+      <rect x="10" y="100" width="10" height="10" fill="green" />
+      <rect x="20" y="100" width="10" height="10" fill="lime" />
+      <rect x="30" y="100" width="10" height="10" fill="forestgreen" />
+      <rect x="40" y="100" width="10" height="10" fill="mediumseagreen" />
+      <rect x="15" y="90" width="10" height="10" fill="green" />
+      <rect x="25" y="90" width="10" height="10" fill="lime" />
+      <rect x="35" y="90" width="10" height="10" fill="forestgreen" />
+      <rect x="20" y="80" width="10" height="10" fill="green" />
+      <rect x="30" y="80" width="10" height="10" fill="lime" />
+    </svg>
+
+  </g>
+
+  <g transform="translate(100, 40)">
+    <!-- Верхняя часть облака -->
+    <rect x="70" y="20" width="10" height="10" fill="lightblue" />
+    <rect x="80" y="20" width="10" height="10" fill="blue" />
+    <rect x="90" y="20" width="10" height="10" fill="lightblue" />
+
+    <!-- Средняя часть облака -->
+    <rect x="60" y="30" width="10" height="10" fill="skyblue" />
+    <rect x="70" y="30" width="10" height="10" fill="lightgrey" />
+    <rect x="80" y="30" width="10" height="10" fill="grey" />
+    <rect x="90" y="30" width="10" height="10" fill="lightgrey" />
+    <rect x="100" y="30" width="10" height="10" fill="skyblue" />
+
+    <!-- Нижняя часть облака -->
+    <rect x="70" y="40" width="10" height="10" fill="white" />
+    <rect x="80" y="40" width="10" height="10" fill="white" />
+    <rect x="90" y="40" width="10" height="10" fill="white" />
+  </g>
+
+  <g transform="translate(160, 80)">
+    <!-- Верхняя часть облака -->
+    <rect x="70" y="20" width="10" height="10" fill="lightblue" />
+    <rect x="80" y="20" width="10" height="10" fill="blue" />
+    <rect x="90" y="20" width="10" height="10" fill="lightblue" />
+
+    <!-- Средняя часть облака -->
+    <rect x="60" y="30" width="10" height="10" fill="skyblue" />
+    <rect x="70" y="30" width="10" height="10" fill="lightgrey" />
+    <rect x="80" y="30" width="10" height="10" fill="grey" />
+    <rect x="90" y="30" width="10" height="10" fill="lightgrey" />
+    <rect x="100" y="30" width="10" height="10" fill="skyblue" />
+
+    <!-- Нижняя часть облака -->
+    <rect x="70" y="40" width="10" height="10" fill="white" />
+    <rect x="80" y="40" width="10" height="10" fill="white" />
+    <rect x="90" y="40" width="10" height="10" fill="white" />
+  </g>
+
+  <g transform="translate(50, 70)">
+    <!-- Верхняя часть облака -->
+    <rect x="70" y="20" width="10" height="10" fill="lightblue" />
+    <rect x="80" y="20" width="10" height="10" fill="blue" />
+    <rect x="90" y="20" width="10" height="10" fill="lightblue" />
+
+    <!-- Средняя часть облака -->
+    <rect x="60" y="30" width="10" height="10" fill="skyblue" />
+    <rect x="70" y="30" width="10" height="10" fill="lightgrey" />
+    <rect x="80" y="30" width="10" height="10" fill="grey" />
+    <rect x="90" y="30" width="10" height="10" fill="lightgrey" />
+    <rect x="100" y="30" width="10" height="10" fill="skyblue" />
+
+    <!-- Нижняя часть облака -->
+    <rect x="70" y="40" width="10" height="10" fill="white" />
+    <rect x="80" y="40" width="10" height="10" fill="white" />
+    <rect x="90" y="40" width="10" height="10" fill="white" />
+  </g>
+
+  <g transform="translate(225, -85)">
+    <!-- Центр солнца -->
+    <rect x="120" y="120" width="50" height="50" fill="yellow" />
+
+    <!-- Лучи -->
+    <rect x="140" y="70" width="8" height="40" fill="orange" /> <!-- Верхний луч -->
+    <rect x="140" y="180" width="8" height="40" fill="orange" /> <!-- Нижний луч -->
+    <rect x="70" y="140" width="40" height="8" fill="orange" /> <!-- Левый луч -->
+    <rect x="180" y="140" width="40" height="8" fill="orange" /> <!-- Правый луч -->
+
+    <!-- Ближние лучи -->
+    <rect x="100" y="100" width="10" height="10" fill="orange" />
+    <rect x="180" y="100" width="10" height="10" fill="orange" />
+    <rect x="100" y="180" width="10" height="10" fill="orange" />
+    <rect x="180" y="180" width="10" height="10" fill="orange" />
+
+    <!-- Ближние лучи -->
+    <rect x="110" y="110" width="10" height="10" fill="orange" />
+    <rect x="170" y="110" width="10" height="10" fill="orange" />
+    <rect x="110" y="170" width="10" height="10" fill="orange" />
+    <rect x="170" y="170" width="10" height="10" fill="orange" />
+  </g>
+
   <!-- f -->
-  <g transform="translate(5, 0)">
+  <g transform="translate(50, 0)">
     <rect x="0" y="0" width="9" height="9" fill="green" />
     <rect x="10" y="0" width="9" height="9" fill="green" />
     <rect x="20" y="0" width="9" height="9" fill="green" />
@@ -13,7 +284,7 @@
     <rect x="0" y="40" width="9" height="9" fill="green" />
   </g>
   <!-- r -->
-  <g transform="translate(50, 0)">
+  <g transform="translate(100, 0)">
     <rect x="0" y="0" width="9" height="9" fill="green" />
     <rect x="10" y="0" width="9" height="9" fill="green" />
     <rect x="20" y="0" width="9" height="9" fill="green" />
@@ -35,7 +306,7 @@
     <rect x="0" y="40" width="9" height="9" fill="green" />
   </g>
   <!-- 0 -->
-  <g transform="translate(100, 0)">
+  <g transform="translate(150, 0)">
     <rect x="0" y="0" width="9" height="9" fill="green" />
     <rect x="10" y="0" width="9" height="9" fill="green" />
     <rect x="20" y="0" width="9" height="9" fill="green" />
@@ -52,7 +323,7 @@
     <rect x="30" y="40" width="9" height="9" fill="green" />
   </g>
   <!-- g -->
-  <g transform="translate(150, 0)">
+  <g transform="translate(200, 0)">
     <rect x="0" y="0" width="9" height="9" fill="green" />
     <rect x="10" y="0" width="9" height="9" fill="green" />
     <rect x="20" y="0" width="9" height="9" fill="green" />
@@ -74,7 +345,7 @@
     <rect x="30" y="40" width="9" height="9" fill="green" />
   </g>
   <!-- a -->
-  <g transform="translate(205, 0)">
+  <g transform="translate(255, 0)">
     <rect x="0" y="4" width="9" height="5" fill="green" />
     <rect x="10" y="0" width="9" height="9" fill="green" />
     <rect x="20" y="0" width="9" height="9" fill="green" />
