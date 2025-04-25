@@ -1,4 +1,4 @@
-# Hi there, I'm <br> ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/8dd4a929d7907c505711eb331da4dc5db9ed059d/fr0ga.svg)
+# Hi there, I'm <br> ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/9bf9f01b26b38da576d954ce3461bd5247b9e9d4/fr0ga.svg)
 
 ## WebStorm projects (stats from wakatime plugin)
 
