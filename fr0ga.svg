@@ -202,11 +202,6 @@
     <rect x="80" y="30" width="10" height="10" fill="grey" />
     <rect x="90" y="30" width="10" height="10" fill="lightgrey" />
     <rect x="100" y="30" width="10" height="10" fill="skyblue" />
-
-    <!-- Нижняя часть облака -->
-    <rect x="70" y="40" width="10" height="10" fill="white" />
-    <rect x="80" y="40" width="10" height="10" fill="white" />
-    <rect x="90" y="40" width="10" height="10" fill="white" />
   </g>
 
   <g transform="translate(160, 80)">
@@ -221,11 +216,6 @@
     <rect x="80" y="30" width="10" height="10" fill="grey" />
     <rect x="90" y="30" width="10" height="10" fill="lightgrey" />
     <rect x="100" y="30" width="10" height="10" fill="skyblue" />
-
-    <!-- Нижняя часть облака -->
-    <rect x="70" y="40" width="10" height="10" fill="white" />
-    <rect x="80" y="40" width="10" height="10" fill="white" />
-    <rect x="90" y="40" width="10" height="10" fill="white" />
   </g>
 
   <g transform="translate(50, 70)">
@@ -240,11 +230,6 @@
     <rect x="80" y="30" width="10" height="10" fill="grey" />
     <rect x="90" y="30" width="10" height="10" fill="lightgrey" />
     <rect x="100" y="30" width="10" height="10" fill="skyblue" />
-
-    <!-- Нижняя часть облака -->
-    <rect x="70" y="40" width="10" height="10" fill="white" />
-    <rect x="80" y="40" width="10" height="10" fill="white" />
-    <rect x="90" y="40" width="10" height="10" fill="white" />
   </g>
 
   <g transform="translate(225, -85)">
