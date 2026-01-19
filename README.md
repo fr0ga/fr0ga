@@ -5,7 +5,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+From: 21 April 2025 - To: 18 January 2026
+
+Total Time: 10 hrs 50 mins
+
+HTML             5 hrs 42 mins   #############____________   52.73 %
+JavaScript       3 hrs 34 mins   ########_________________   32.97 %
+CSS              46 mins         ##_______________________   07.15 %
+JSON             20 mins         #________________________   03.16 %
+Markdown         15 mins         #________________________   02.35 %
+Text             4 mins          _________________________   00.64 %
+TypeScript       3 mins          _________________________   00.55 %
+Image (svg)      2 mins          _________________________   00.34 %
+YAML             0 secs          _________________________   00.07 %
+IDEA_MODULE      0 secs          _________________________   00.05 %
 ```
 
 <!--END_SECTION:waka-->
