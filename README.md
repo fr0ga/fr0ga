@@ -2,9 +2,9 @@
 
 ## WebStorm projects (with stats from wakatime plugin)
 <!--START_SECTION:waka-->
-
+[WakaTime Stats](https://wakatime.com/@fr0ga)
 <!--END_SECTION:waka-->
-[WakaTime Stats](https://wakatime.com/@alexmolt)
+
 
 <!--
 **fr0ga/fr0ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
