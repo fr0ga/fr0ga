@@ -4,20 +4,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 17 April 2026
+From: 21 April 2025 - To: 18 April 2026
 
-Total Time: 10 hrs 50 mins
+Total Time: 12 hrs 30 mins
 
-HTML             5 hrs 42 mins         #############____________   52.73 %
-JavaScript       3 hrs 34 mins         ########_________________   32.97 %
-CSS              46 mins               ##_______________________   07.15 %
-JSON             20 mins               #________________________   03.16 %
-Markdown         15 mins               #________________________   02.35 %
-Text             4 mins                _________________________   00.64 %
-TypeScript       3 mins                _________________________   00.55 %
-Image (svg)      2 mins                _________________________   00.34 %
-YAML             0 secs                _________________________   00.07 %
-IDEA_MODULE      0 secs                _________________________   00.05 %
+HTML              7 hrs 1 min           ##############___________   56.21 %
+JavaScript        3 hrs 37 mins         #######__________________   28.99 %
+CSS               46 mins               ##_______________________   06.20 %
+JSON              20 mins               #________________________   02.74 %
+Markdown          15 mins               #________________________   02.04 %
+GitExclude file   11 mins               _________________________   01.51 %
+Text              4 mins                _________________________   00.55 %
+YAML              3 mins                _________________________   00.50 %
+TypeScript        3 mins                _________________________   00.48 %
+GitIgnore file    3 mins                _________________________   00.45 %
 ```
 
 <!--END_SECTION:waka-->
