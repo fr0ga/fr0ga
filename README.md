@@ -3,16 +3,8 @@
 ## WebStorm projects (with stats from wakatime plugin)
 <!--START_SECTION:waka-->
 
-```txt
-CSS           10 mins         ████████████████░░░░░░░░░   64.06 %
-JavaScript    5 mins          █████████░░░░░░░░░░░░░░░░   35.92 %
-HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-
 <!--END_SECTION:waka-->
+[WakaTime Stats](https://wakatime.com/@alexmolt)
 
 <!--
 **fr0ga/fr0ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
