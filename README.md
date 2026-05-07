@@ -1,4 +1,6 @@
-## Hi there, I'm &ensp; ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/82ef76a0f1a75c34eb5a7075fc551273294c13d7/fr0ga.svg)
+## Hi there, I'm &ensp; ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/d419af8c9b3b7002e34510b842441cf114ed6473/fr0ga.svg)
+
+https://raw.githubusercontent.com/fr0ga/WebStormProjects/refs/heads/master/fr0ga/together.html
 
 ## WebStorm projects (with stats from wakatime plugin)
 <!--START_SECTION:waka-->
