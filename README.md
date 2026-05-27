@@ -7,20 +7,20 @@ My tank apple game: https://fr0ga.github.io/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 26 May 2026
+From: 21 April 2025 - To: 27 May 2026
 
-Total Time: 12 hrs 30 mins
+Total Time: 13 hrs 15 mins
 
-HTML              7 hrs 1 min           ##############___________   56.21 %
-JavaScript        3 hrs 37 mins         #######__________________   28.99 %
-CSS               46 mins               ##_______________________   06.20 %
-JSON              20 mins               #________________________   02.73 %
-Markdown          15 mins               #________________________   02.04 %
-GitExclude file   11 mins               _________________________   01.51 %
+HTML              7 hrs 17 mins         ##############___________   55.01 %
+JavaScript        4 hrs                 ########_________________   30.30 %
+CSS               52 mins               ##_______________________   06.54 %
+JSON              20 mins               #________________________   02.58 %
+Markdown          15 mins               _________________________   01.93 %
+GitExclude file   11 mins               _________________________   01.43 %
 Text              4 mins                _________________________   00.55 %
-YAML              3 mins                _________________________   00.50 %
-TypeScript        3 mins                _________________________   00.48 %
-GitIgnore file    3 mins                _________________________   00.45 %
+YAML              3 mins                _________________________   00.47 %
+TypeScript        3 mins                _________________________   00.45 %
+GitIgnore file    3 mins                _________________________   00.43 %
 ```
 
 <!--END_SECTION:waka-->
