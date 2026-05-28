@@ -9,14 +9,14 @@ My tank apple game: https://fr0ga.github.io/
 ```txt
 From: 21 April 2025 - To: 27 May 2026
 
-Total Time: 13 hrs 15 mins
+Total Time: 13 hrs 16 mins
 
-HTML              7 hrs 17 mins         ##############___________   55.01 %
-JavaScript        4 hrs                 ########_________________   30.30 %
+HTML              7 hrs 18 mins         ##############___________   55.06 %
+JavaScript        4 hrs                 ########_________________   30.26 %
 CSS               52 mins               ##_______________________   06.54 %
 JSON              20 mins               #________________________   02.58 %
-Markdown          15 mins               _________________________   01.93 %
-GitExclude file   11 mins               _________________________   01.43 %
+Markdown          15 mins               _________________________   01.92 %
+GitExclude file   11 mins               _________________________   01.42 %
 Text              4 mins                _________________________   00.55 %
 YAML              3 mins                _________________________   00.47 %
 TypeScript        3 mins                _________________________   00.45 %
