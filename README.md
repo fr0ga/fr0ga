@@ -7,7 +7,7 @@ My tank apple game: https://fr0ga.github.io/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 03 June 2026
+From: 21 April 2025 - To: 04 June 2026
 
 Total Time: 17 hrs 31 mins
 
