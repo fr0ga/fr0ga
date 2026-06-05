@@ -2,6 +2,7 @@
 ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/d419af8c9b3b7002e34510b842441cf114ed6473/fr0ga.svg)
 
 My tank apple game: https://fr0ga.github.io/
+My invoker (dota 2) game: https://fr0ga.github.io/QWE/
 
 ## WebStorm projects (with stats from wakatime plugin)
 <!--START_SECTION:waka-->
