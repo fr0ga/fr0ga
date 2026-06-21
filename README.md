@@ -5,6 +5,8 @@ My tank apple game: https://fr0ga.github.io/
 
 My invoker (dota 2) game: https://fr0ga.github.io/QWE/
 
+This is my little playground — a fun space for everything I enjoy.
+
 ## WebStorm projects (with stats from wakatime plugin)
 <!--START_SECTION:waka-->
 
