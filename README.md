@@ -11,7 +11,7 @@ This is my little playground — a fun space for everything I enjoy.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 09 July 2026
+From: 21 April 2025 - To: 10 July 2026
 
 Total Time: 18 hrs 27 mins
 
