@@ -13,13 +13,13 @@ This is my little playground — a fun space for everything I enjoy.
 ```txt
 From: 21 April 2025 - To: 22 July 2026
 
-Total Time: 18 hrs 27 mins
+Total Time: 18 hrs 28 mins
 
-HTML              8 hrs 38 mins         ############_____________   46.83 %
-JavaScript        6 hrs 38 mins         #########________________   35.95 %
-CSS               2 hrs 5 mins          ###______________________   11.30 %
+HTML              8 hrs 38 mins         ############_____________   46.75 %
+JavaScript        6 hrs 39 mins         #########________________   36.06 %
+CSS               2 hrs 5 mins          ###______________________   11.28 %
 JSON              20 mins               _________________________   01.85 %
-Markdown          15 mins               _________________________   01.39 %
+Markdown          15 mins               _________________________   01.38 %
 GitExclude file   11 mins               _________________________   01.02 %
 Text              5 mins                _________________________   00.46 %
 YAML              3 mins                _________________________   00.34 %
