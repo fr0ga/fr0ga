@@ -2,7 +2,9 @@
 ![fr0ga](https://raw.githubusercontent.com/fr0ga/fr0ga/d419af8c9b3b7002e34510b842441cf114ed6473/fr0ga.svg)
 
 My tank apple game: https://fr0ga.github.io/
+
 My ArtGallery page: https://fr0ga.github.io/ArtGallery/
+
 My invoker (dota 2) game: https://fr0ga.github.io/QWE/
 
 This is my little playground — a fun space for everything I enjoy.
